@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.taotas.selenideintro.YandexRaspTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-01-26T07:36:52" hostname="Sveta-ПК" time="23.123">
+  <properties/>
+  <testcase name="searchTransportDirectionNo()" classname="com.taotas.selenideintro.YandexRaspTest" time="23.123"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[янв. 26, 2020 2:36:53 PM com.codeborne.selenide.drivercommands.LazyDriver getAndCheckWebDriver
+INFO: No webdriver is bound to current thread: 13 - let's create a new webdriver
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+Starting ChromeDriver 79.0.3945.36 (3582db32b33893869b8c1339e8f4d9ed1816f143-refs/branch-heads/3945@{#614}) on port 12046
+Only local connections are allowed.
+Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
+янв. 26, 2020 2:37:03 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+янв. 26, 2020 2:37:03 PM com.codeborne.selenide.webdriver.BrowserResizer adjustBrowserSize
+INFO: Set browser size to 1366x768
+янв. 26, 2020 2:37:04 PM com.codeborne.selenide.webdriver.WebDriverFactory logBrowserVersion
+INFO: BrowserName=chrome Version=79.0.3945.130 Platform=WINDOWS
+янв. 26, 2020 2:37:04 PM com.codeborne.selenide.webdriver.WebDriverFactory createWebDriver
+INFO: Selenide v. 5.2.4
+янв. 26, 2020 2:37:04 PM com.codeborne.selenide.webdriver.WebDriverFactory logSeleniumInfo
+INFO: Selenium WebDriver v. 3.141.59 build time: 2018-11-14T08:17:03
+янв. 26, 2020 2:37:04 PM com.codeborne.selenide.drivercommands.CreateDriverCommand createDriver
+INFO: Create webdriver in current thread 13: ChromeDriver -> ChromeDriver: chrome on WINDOWS (44e0a9a46b9d69fd9401c22fc75505b7)
+]]></system-err>
+</testsuite>
